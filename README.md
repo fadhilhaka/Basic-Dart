@@ -1,6 +1,6 @@
 # Basic Dart
 
-[Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/academies/191) from [Dicoding](https://www.dicoding.com/users/787116)
+[Memulai Pemrograman Dengan Dart](https://www.dicoding.com/academies/191) from [Dicoding](https://www.dicoding.com/users/787116)
 
 ## Glossary
 
@@ -17,6 +17,7 @@
 | Course | Description |
 |--------|-------------|
 | [Introduction](https://github.com/fadhilhaka/Basic-Dart/tree/main/introduction) | Intro to Dart |
+| [Fundamental](https://github.com/fadhilhaka/Basic-Dart/tree/main/fundamental) | Dart Fundamental |
 
 ## Intention
 
