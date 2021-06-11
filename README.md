@@ -18,6 +18,7 @@
 |--------|-------------|
 | [Introduction](https://github.com/fadhilhaka/Basic-Dart/tree/main/introduction) | Intro to Dart |
 | [Fundamental](https://github.com/fadhilhaka/Basic-Dart/tree/main/fundamental) | Dart Fundamental |
+| [Control Flow](https://github.com/fadhilhaka/Basic-Dart/tree/main/control-flow) | Dart Control Flow |
 
 ## Intention
 
