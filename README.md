@@ -23,6 +23,7 @@
 | [OOP](https://github.com/fadhilhaka/Basic-Dart/tree/main/OOP) | Object Oriented Programming |
 | [Functional Programming](https://github.com/fadhilhaka/Basic-Dart/tree/main/functional-programming) | Functional Programming |
 | [Dart Type Systems](https://github.com/fadhilhaka/Basic-Dart/tree/main/type-systems) | Intro to Dart Type Systems |
+| [Dart Futures](https://github.com/fadhilhaka/Basic-Dart/tree/main/futures) | Intro to Dart Futures |
 
 ## Intention
 
