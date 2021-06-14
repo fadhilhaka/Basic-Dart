@@ -21,6 +21,7 @@
 | [Control Flow](https://github.com/fadhilhaka/Basic-Dart/tree/main/control-flow) | Dart Control Flow |
 | [Collections](https://github.com/fadhilhaka/Basic-Dart/tree/main/collections) | Dart Collections |
 | [OOP](https://github.com/fadhilhaka/Basic-Dart/tree/main/OOP) | Object Oriented Programming |
+| [Functional Programming](https://github.com/fadhilhaka/Basic-Dart/tree/main/functional-programming) | Functional Programming |
 
 ## Intention
 
